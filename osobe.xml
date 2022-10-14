@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<osobe>
+  <natjecatelji>
+    <natjecatelj ime="Marjan" prezime="Badel" dob="17.05.2001" id="38970708931" idTima="777" />
+    <natjecatelj ime="Dario" prezime="Simic" dob="19.02.2001" id="45290702534" idTima="777" />
+    <natjecatelj ime="Luka" prezime="Doncic" dob="17.11.2000" id="22418870529" idTima="666" />
+    <natjecatelj ime="Lebron" prezime="James" dob="09.05.1998" id="12416670521" idTima="666" />
+    <natjecatelj ime="Milanko" prezime="Matan" dob="11.05.1997" id="56671089119" idTima="888" />
+    <natjecatelj ime="Niksa" prezime="Zizu" dob="08.11.1998" id="90180170153" idTima="888" />
+    <natjecatelj ime="Danijel" prezime="Pranjic" dob="23.05.1995" id="14271065621" idTima="" />
+    <natjecatelj ime="Kiki" prezime="Puki" dob="23.05.1998" id="16666665621" idTima="322" />
+    <natjecatelj ime="Dado" prezime="Papuk" dob="04.09.1996" id="12345678910" idTima="" />
+    <natjecatelj ime="Igor" prezime="Stankovic" dob="05.05.1997" id="54342767867" idTima="678" />
+    <natjecatelj ime="Mateo" prezime="Gladoic" dob="05.02.1996" id="63953073088" idTima="384" />
+    <natjecatelj ime="Marin" prezime="Cilic" dob="10.10.1985" id="55555555555" idTima="271" />
+    <natjecatelj ime="Mato" prezime="Matan" dob="01.01.2000" id="12365498711" idTima="" />
+  </natjecatelji>
+  <kapetaniTima>
+    <kapetanTima ime="Chris" prezime="Paul" dob="21.11.2001" id="15161718192" idTima="568" />
+    <kapetanTima ime="Michael" prezime="Jordan" dob="20.03.2000" id="20112012134" idTima="666" />
+    <kapetanTima ime="Chris" prezime="Smoove" dob="20.03.1998" id="10150560670" idTima="888" />
+    <kapetanTima ime="Zoran" prezime="Balog" dob="21.03.1998" id="76789712301" idTima="678" />
+    <kapetanTima ime="Stephen" prezime="Curry" dob="15.03.1988" id="12345678891" idTima="777" />
+    <kapetanTima ime="Donnie" prezime="Nelson" dob="20.10.1999" id="12312312312" idTima="322" />
+  </kapetaniTima>
+  <koordinatori>
+    <koordinator ime="Niko" prezime="Kovac" dob="30.12.1973" id="98737192301" titula="dipl. ing" kontakt="95 530 7917" sifra="CSH" />
+    <koordinator ime="Mladen" prezime="Petric" dob="11.03.1980" id="48356194723" titula="Dr." kontakt="98 572 3572" sifra="JAV" />
+    <koordinator ime="Jole" prezime="Embiid" dob="30.01.2002" id="52383124393" titula="mag. math" kontakt="0925611402" sifra="JAV" />
+    <koordinator ime="Predrag" prezime="Mamic" dob="13.02.1977" id="12343537515" titula="mag. math" kontakt="0993422132" sifra="CBL" />
+    <koordinator ime="Stevo" prezime="Mlinaric" dob="15.11.2000" id="43215678955" titula="ing." kontakt="0955317891" sifra="PYT" />
+    <koordinator ime="Fernando" prezime="Torres" dob="11.11.1981" id="44455544455" titula="Dr." kontakt="0919919911" sifra="FOR" />
+    <koordinator ime="Stevo" prezime="Stevic" dob="01.01.1991" id="12345678999" titula="mr.sc.dr" kontakt="0919595587" sifra="CPL" />
+  </koordinatori>
+  <voditelji>
+    <voditelj ime="Adam" prezime="Silver" dob="23.04.1963" id="12334734391" titula="Dr." kontakt="91 817 3412" />
+  </voditelji>
+</osobe>

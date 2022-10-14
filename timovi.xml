@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<timovi>
+  <tim id="666" ime="Ringerz" kapetanID="20112012134" kontakt="ringerz@yahoo.ch" institucija="MIT" neaktivan="False">
+    <natjecatelj id="22418870529" />
+    <natjecatelj id="12416670521" />
+    <sifra sifra="JAV" />
+    <sifra sifra="PYT" />
+    <sifra sifra="CSH" />
+  </tim>
+  <tim id="888" ime="Ballerz" kapetanID="10150560670" kontakt="allstars@hotmail.com" institucija="UNC" neaktivan="False">
+    <natjecatelj id="56671089119" />
+    <natjecatelj id="90180170153" />
+    <sifra sifra="PYT" />
+    <sifra sifra="JAV" />
+  </tim>
+  <tim id="678" ime="Clippers" kapetanID="76789712301" kontakt="lac@nba.com" institucija="LA" neaktivan="False">
+    <natjecatelj id="54342767867" />
+    <sifra sifra="CPL" />
+    <sifra sifra="CSH" />
+  </tim>
+  <tim id="777" ime="Devils" kapetanID="12345678891" kontakt="ballerz@protonmail.ch" institucija="Harvard" neaktivan="False">
+    <natjecatelj id="38970708931" />
+    <natjecatelj id="45290702534" />
+    <sifra sifra="CPP" />
+    <sifra sifra="CSH" />
+  </tim>
+  <tim id="271" ime="Kings" kapetanID="" kontakt="kingz@mail.com" institucija="UCLA" neaktivan="False">
+    <natjecatelj id="55555555555" />
+    <sifra sifra="FOR" />
+  </tim>
+</timovi>
